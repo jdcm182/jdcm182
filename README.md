@@ -33,7 +33,8 @@ API: https://www.spoonacular.com/
 Main Features: Fetch items from an external API, Create recipes through a controlled form and save them to a local Data Base, Filter by diet types, Order alfabetically or by healthScore, Delete created recipes, and Search through all items.</p>
 -->
 
-           
+
+  
 <a href="https://github.com/jdcm182/PF-Henry-PT07G06-FRONT"><img height="200" src="./media/PF_screenshot1.jpg" />
 <a href="https://github.com/jdcm182/PF-Henry-PT07G06-FRONT"><img height="200" src="./media/PF_screenshot2.jpg" />
 <a href="https://github.com/jdcm182/PF-Henry-PT07G06-FRONT"><img height="200" src="./media/PF_screenshot3.jpg" />
@@ -44,7 +45,8 @@ Main Features: Fetch items from an external API, Create recipes through a contro
   
   <br/>
   <br/>
-  
+
+<img src="./media/git_merge.gif" />
 
 <h2 align="left">My GitHub Stats:</h2>
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdcm182" alt="github trophys" /></a> --->
