@@ -20,8 +20,9 @@ I’ve been working with JavaScript, React, Redux, NodeJS, Express, Sequelize, P
 API: https://www.spoonacular.com/
 </br>
            
-<a href="https://github.com/jdcm182/PI-Food-J"><img height="200" src="./media/screencapture1.jpg" />
-<a href="https://github.com/jdcm182/PI-Food-J"><img height="200" src="./media/screencapture2.jpg" />
+<a href="https://github.com/jdcm182/jdcm182/blob/main/media/screencapture1.jpg"><img height="200" src="./media/screencapture1.jpg" />
+<a href="https://github.com/jdcm182/jdcm182/blob/main/media/screencapture2.jpg"><img height="200" src="./media/screencapture2.jpg" />
+<!-- <a href="https://github.com/jdcm182/PI-Food-J"> -->
 
 
 <br/>
@@ -35,12 +36,13 @@ Main Features: Fetch items from an external API, Create recipes through a contro
 
 
   
-<a href="https://github.com/jdcm182/PF-Henry-PT07G06-FRONT"><img height="200" src="./media/PF_screenshot1.jpg" />
-<a href="https://github.com/jdcm182/PF-Henry-PT07G06-FRONT"><img height="200" src="./media/PF_screenshot2.jpg" />
-<a href="https://github.com/jdcm182/PF-Henry-PT07G06-FRONT"><img height="200" src="./media/PF_screenshot3.jpg" />
-<a href="https://github.com/jdcm182/PF-Henry-PT07G06-FRONT"><img height="200" src="./media/PF_screenshot4.jpg" />
-<a href="https://github.com/jdcm182/PF-Henry-PT07G06-FRONT"><img height="200" src="./media/PF_screenshot5.jpg" />
-<a href="https://github.com/jdcm182/PF-Henry-PT07G06-FRONT"><img height="200" src="./media/PF_screenshot6.jpg" />
+<a href="https://github.com/jdcm182/jdcm182/blob/main/media/PF_screenshot1.jpg"><img height="200" src="./media/PF_screenshot1.jpg" />
+<a href="https://github.com/jdcm182/jdcm182/blob/main/media/PF_screenshot2.jpg"><img height="200" src="./media/PF_screenshot2.jpg" />
+<a href="https://github.com/jdcm182/jdcm182/blob/main/media/PF_screenshot3.jpg"><img height="200" src="./media/PF_screenshot3.jpg" />
+<a href="https://github.com/jdcm182/jdcm182/blob/main/media/PF_screenshot4.jpg"><img height="200" src="./media/PF_screenshot4.jpg" />
+<a href="https://github.com/jdcm182/jdcm182/blob/main/media/PF_screenshot5.jpg"><img height="200" src="./media/PF_screenshot5.jpg" />
+<a href="https://github.com/jdcm182/jdcm182/blob/main/media/PF_screenshot6.jpg"><img height="200" src="./media/PF_screenshot6.jpg" />
+<!-- <a href="https://github.com/jdcm182/PF-Henry-PT07G06-FRONT"> -->
 
   
   <br/>
