@@ -8,12 +8,49 @@ I’ve been working with JavaScript, React, Redux, NodeJS, Express, Sequelize, P
 <br/>
 <br/>
 
+
+  <h2 align="left"> Technologies I use: </h2>
+  <p>
+    <table>
+      <thead>  <tr> <th colspan="2"> Stack </th> </tr> </thead>
+      <tbody>
+        <tr>
+          <td> Main language </td>
+          <td> JavaScript </td>
+        </tr>
+        <tr>
+          <td> Frontend </td>
+          <td> React, Redux, HTML 5, CSS 3 </td>
+        </tr>
+        <tr>
+          <td> Backend </td>
+          <td> Node JS, Express JS, Sequelize </td>
+        </tr>
+        <tr>
+          <td> Database </td>
+          <td> PostgreSQL, SQL </td>
+        </tr>
+        <tr>
+          <td> Version control </td>
+          <td> Git </td>
+        </tr>
+        <tr>
+          <td> Project Management </td>
+          <td> Scrum </td>
+        </tr>
+      </tbody>
+  </table>
+  
+  <br/>
+  <br/>
+  
+
 <h2 align="left">Some of my Projects:</h2>
 
 <br/>
 
 <h3> PI FOOD </h3>
-<p>Single Page Application created as the Individual Project of the soyHENRY's Bootcamp using JavaScript, React-Redux, NodeJS, Express, HTML, CSS, Sequelize, and PostgreSQL, technologies.</p>
+<p>An SPA (Single Page Application) created as the Individual Project of the soyHENRY's Bootcamp using JavaScript, React-Redux, NodeJS, Express, HTML, CSS, Sequelize, and PostgreSQL, technologies.</p>
   
 <p>Main Features: Fetch items from an external API, Create recipes through a controlled form and save them to a local Data Base, Filter by diet types, Order alfabetically or by healthScore, Delete created recipes, and Search through all items.</p>
 
@@ -61,40 +98,6 @@ Main Features: Fetch items from an external API, Create recipes through a contro
   <br/>
   <br/>
 
-  <h2 align="left"> Technologies I use: </h2>
-  <p>
-    <table>
-      <thead>  <tr> <th colspan="2"> Stack </th> </tr> </thead>
-      <tbody>
-        <tr>
-          <td> Main language </td>
-          <td> JavaScript </td>
-        </tr>
-        <tr>
-          <td> Frontend </td>
-          <td> React, Redux, HTML 5, CSS 3 </td>
-        </tr>
-        <tr>
-          <td> Backend </td>
-          <td> Node JS, Express JS, Sequelize </td>
-        </tr>
-        <tr>
-          <td> Database </td>
-          <td> PostgreSQL, SQL </td>
-        </tr>
-        <tr>
-          <td> Version control </td>
-          <td> Git </td>
-        </tr>
-        <tr>
-          <td> Project Management </td>
-          <td> Scrum </td>
-        </tr>
-      </tbody>
-  </table>
-  
-  <br/>
-  <br/>
   
 
 <h2 align="left"> Feel free to contact me: </h2>
