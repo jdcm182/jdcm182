@@ -50,7 +50,7 @@ I’ve been working with JavaScript, React, Redux, NodeJS, Express, Sequelize, P
 <br/>
 
 <h3> PI FOOD </h3>
-<p>An SPA (Single Page Application) created as the Individual Project of the soyHENRY's Bootcamp using JavaScript, React-Redux, NodeJS, Express, HTML, CSS, Sequelize, and PostgreSQL, technologies.</p>
+<p>A SPA (Single Page Application) created as the Individual Project of the soyHENRY's Bootcamp using JavaScript, React-Redux, NodeJS, Express, HTML, CSS, Sequelize, and PostgreSQL, technologies.</p>
   
 <p>Main Features: Fetch items from an external API, Create recipes through a controlled form and save them to a local Data Base, Filter by diet types, Order alfabetically or by healthScore, Delete created recipes, and Search through all items.</p>
 
