@@ -85,6 +85,7 @@ Main Features: Fetch items from an external API, Create recipes through a contro
   <br/>
   <br/>
 
+  Working on different branches with your team mates can sometimes be like:
 <img src="./media/git_merge.gif" />
 
 <h2 align="left">My GitHub Stats:</h2>
