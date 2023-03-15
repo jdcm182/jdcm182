@@ -1,4 +1,6 @@
-![Github Banner Hello](https://user-images.githubusercontent.com/2494062/202928686-7c70bd9f-ba6a-4b84-a07b-737f97c38802.jpg)
+<!-- ![Github Banner Hello](https://user-images.githubusercontent.com/2494062/202928686-7c70bd9f-ba6a-4b84-a07b-737f97c38802.jpg) -->
+![Github-background-fondo2](https://user-images.githubusercontent.com/2494062/225432194-e4f4e770-be60-46bf-9997-053116f22e92.jpg)
+
 
 
 Hi! 👋🏻 My name is Jeronimo, and I am a <b>Full Stack Developer</b> with a marked tendency towards <b>Front End</b>, specially because it combines my biggest two passions: <b>Programming & Graphic Design</b>. 
